@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Farheen Fatima  
 
-🎓 Final-year student at **FAST NUCES Karachi** pursuing **BS in Artificial Intelligence**.  
-💡 An aspiring **AI/ML Engineer** with a strong interest in building intelligent systems.  
+🎓 Final year student at FAST NUCES Karachi pursuing BS in Artificial Intelligence.  
+💡 An aspiring AI/ML Engineer with a strong interest in building intelligent systems.  
 
 ---
 
